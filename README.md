@@ -14,7 +14,8 @@ In this lab, we learned how to make clock dividers from two types of counters.
 ## Names
 Ivan Ha & Abigail Ames
 ## Summary
-
+We learned how to make a MC counter.
+We leanred how to make an RC counter.
 ## Lab Questions
 
 ### 1 - Why does the Modulo Counter actually divide clocks by 2 * Count?
